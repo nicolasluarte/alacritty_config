@@ -28,3 +28,6 @@ colors:
     magenta: '#d3869b'
     cyan:    '#8ec07c'
     white:   '#ebdbb2'
+
+# Opacity
+background_opacity: 1
